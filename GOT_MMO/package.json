@@ -1,0 +1,21 @@
+{
+  "name": "MMORPG_GOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabryel",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "crypto": "^1.0.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.0",
+    "express-session": "^1.15.6",
+    "express-validator": "^3.2.0",
+    "mongodb": "^2.2.29"
+  }
+}
